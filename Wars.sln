@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wars", "Wars\Wars.csproj", "{D0B2546F-C3CF-4C3D-B959-1511DC7A613A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B2546F-C3CF-4C3D-B959-1511DC7A613A}.Debug|x86.ActiveCfg = Debug|x86
+		{D0B2546F-C3CF-4C3D-B959-1511DC7A613A}.Debug|x86.Build.0 = Debug|x86
+		{D0B2546F-C3CF-4C3D-B959-1511DC7A613A}.Release|x86.ActiveCfg = Release|x86
+		{D0B2546F-C3CF-4C3D-B959-1511DC7A613A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EEAA149-D2B7-4922-BF4B-C8EB52F113EA}
+	EndGlobalSection
+EndGlobal
